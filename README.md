@@ -1,5 +1,8 @@
 node-aws
 ========
+How to do README-file
+https://help.github.com/articles/github-flavored-markdown
+
 
 How to do node.js on AWS EC2
 
