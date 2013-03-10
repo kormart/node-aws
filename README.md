@@ -16,6 +16,12 @@ sudo make install
 sudo chown -R ec2-user /usr/local
 curl http://npmjs.org/install.sh | sh
 
+yum install git
+
+git clone git://github.com/vanjakom/JavaScriptPlayground.git
+cd JavaScriptPlayground/nodejs_static_file_server
+
+node server.js
 
 
 
